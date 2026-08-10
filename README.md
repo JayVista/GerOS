@@ -34,7 +34,7 @@
 
 > 💡 支持多套壁纸主题，点击即可实时更换背景。
 
-![设置界面](./screenshot_settings.png)
+![主题切换](./screenshot_settings.png)
 
 ---
 
