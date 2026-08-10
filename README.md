@@ -1,4 +1,4 @@
-<img width="1600" height="900" alt="Theme" src="https://github.com/user-attachments/assets/3c1f666d-5859-4ee9-8b73-3442d1dcd894" /># GerOS — Python 桌面模拟操作系统
+/># GerOS — Python 桌面模拟操作系统
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
