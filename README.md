@@ -1,4 +1,4 @@
-# GerOS — Python 桌面模拟操作系统
+<img width="1600" height="900" alt="Theme" src="https://github.com/user-attachments/assets/3c1f666d-5859-4ee9-8b73-3442d1dcd894" /># GerOS — Python 桌面模拟操作系统
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -29,6 +29,10 @@
 ## 🖥️ 界面预览
 
 ![运行截图](./interface.png)
+
+## 🖥️ 主题切换
+
+![运行截图](./heme.png)
 
 ---
 
