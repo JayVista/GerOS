@@ -26,6 +26,10 @@
 
 ![GerOS](logo.jpg)
 
+## 🖥️ 界面预览
+
+![运行截图](./interface.png)
+
 ---
 
 ## 功能特性
