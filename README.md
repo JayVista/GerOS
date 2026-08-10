@@ -83,7 +83,7 @@ GerOS 当前处于 **Alpha / 实验性开发阶段**。以下功能模块的完�
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/JayVista/GerOS.git
+git clone https://github.com/JayVista/GerOS
 cd GerOS
 ```
 
