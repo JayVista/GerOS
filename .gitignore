@@ -1,0 +1,40 @@
+# ============================================================
+# GerOS 项目 .gitignore
+# ============================================================
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+*.egg
+dist/
+build/
+*.spec
+*.manifest
+
+# --- Node.js ---
+nodejs/
+node_modules/
+node.zip
+package-lock.json
+npm-debug.log*
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- MusicFreeApp (独立子项目，不纳入版本控制) ---
+MusicFreeApp/
+
+# --- .NET ---
+.netcache/
+
+# --- 打包产物 ---
+*.exe.manifest
