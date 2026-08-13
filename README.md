@@ -1,12 +1,16 @@
 # GerOS — Python 桌面模拟操作系统
 
-[![下载-123云盘](https://img.shields.io/badge/下载-123云盘-1e90ff?style=for-the-badge&logo=cloud)](你的123云盘链接)
-[![下载-蓝奏云](https://img.shields.io/badge/下载-蓝奏云-1e90ff?style=for-the-badge&logo=cloud)](你的蓝奏云链接)
+
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-0.5.2-orange.svg)]()
 [![Project Status](https://img.shields.io/badge/status-Experimental-red)](https://github.com)
 [![Plugins](https://img.shields.io/badge/plugins-unstable-orange)](https://github.com)
+
+---
+[![下载-123云盘](https://img.shields.io/badge/下载-123云盘-1e90ff?style=for-the-badge&logo=cloud)](你的123云盘链接)
+[![下载-蓝奏云](https://img.shields.io/badge/下载-蓝奏云-1e90ff?style=for-the-badge&logo=cloud)](你的蓝奏云链接)
+
 
 > # ⚠️ 实验性原型 · 插件系统开发中
 > 
