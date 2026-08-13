@@ -8,8 +8,8 @@
 [![Plugins](https://img.shields.io/badge/plugins-unstable-orange)](https://github.com)
 
 ---
-[![下载-123云盘](https://img.shields.io/badge/下载-123云盘-1e90ff?style=for-the-badge&logo=cloud)](你的123云盘链接)
-[![下载-蓝奏云](https://img.shields.io/badge/下载-蓝奏云-1e90ff?style=for-the-badge&logo=cloud)](你的蓝奏云链接)
+[![下载-123云盘](https://img.shields.io/badge/下载-123云盘-1e90ff?style=for-the-badge&logo=cloud)](https://1850410485.share.123pan.cn/123pan/FaQ4vd-uVcav)
+[![下载-蓝奏云](https://img.shields.io/badge/下载-蓝奏云-1e90ff?style=for-the-badge&logo=cloud)](https://wwbcs.lanzoub.com/b01eup7zji密码:4swp)
 
 
 > # ⚠️ 实验性原型 · 插件系统开发中
