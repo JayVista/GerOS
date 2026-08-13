@@ -40,6 +40,9 @@
 [![下载](https://img.shields.io/badge/下载-123云盘-blue)](https://1850410485.share.123pan.cn/123pan/FaQ4vd-uVcav)
 
 ---
+[![下载](https://img.shields.io/badge/下载-蓝奏云-1e90ff)](https://wwbcs.lanzoub.com/b01eup7zji密码:4swp)
+
+---
 
 ## 功能特性
 
