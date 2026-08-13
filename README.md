@@ -35,8 +35,9 @@
 > 💡 支持多套壁纸主题，点击即可实时更换背景。
 
 ![主题切换](./screenshot_settings.png)
-> 壁纸下载
-> (./https://1850410485.share.123pan.cn/123pan/FaQ4vd-uVcav)
+
+## 🖥️ 项目完整文件与其他资源下载
+> (https://1850410485.share.123pan.cn/123pan/FaQ4vd-uVcav)
 
 ---
 
