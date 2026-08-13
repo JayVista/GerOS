@@ -37,7 +37,7 @@
 ![主题切换](./screenshot_settings.png)
 
 ## 🖥️ 项目完整文件与其他资源下载
-> (https://1850410485.share.123pan.cn/123pan/FaQ4vd-uVcav)
+[![下载](https://img.shields.io/badge/下载-123云盘-blue)](https://1850410485.share.123pan.cn/123pan/FaQ4vd-uVcav)
 
 ---
 
